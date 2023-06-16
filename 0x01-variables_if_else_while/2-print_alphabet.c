@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * Main - Main block entry
- * Description: A random number is generated we get the last digit and contrast it with 5
- * End the main function by return 0;
+/**
+ * Main - main block entry
+ * Description: Get a random number and check its last digit, compare it with 5
+ * Return: 0
  */
 
-void main ()
+int main(void)
 {
 	char c = 'a';
 
