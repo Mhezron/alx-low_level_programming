@@ -2,11 +2,11 @@
 
 /**
  * main - main block
- * Description: Get a random number check its last digit, contrat to 5
+ * Description: Get a random number check its last digit, contrast to 5
  * Return: 0
  */
 
-void main()
+int main(void)
 {
 	char c = 'a';
 
