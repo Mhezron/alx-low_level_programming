@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - print to 98
- * @n : initial number to start from
+ * @n : number to start from
  * Return:0 or 1
  */
 
@@ -22,4 +22,4 @@ while (n > 98)
 
 printf("98");
 putchar('\n');
-i}
+}
